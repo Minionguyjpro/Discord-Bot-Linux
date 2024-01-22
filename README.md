@@ -1,17 +1,47 @@
-# Tetris-Game
+# My Discord Bot
 
-## Overview
-Immerse yourself in the timeless puzzle-solving action of the Tetris-Game...
+Welcome to the repository for "My Discord Bot"! This is a simple Discord bot built using the `discord.py` library.
 
-## How to Play
-- Use arrow keys for left, right, and down movements.
-- Press the up arrow to rotate the falling Tetriminos...
+## Features
 
-## Requirements
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+
+## Getting Started
+
+### Prerequisites
+
 - Python 3.x
-- curses library (usually included with Python on Linux)
+- [discord.py](https://discordpy.readthedocs.io/en/latest/)
 
-## Installation
+### Installation
+
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Momwhyareyouhere/Tetris-Game.git
+
+    ```bash
+    git clone (https://github.com/Momwhyareyouhere/Discord-Bot-Linux)
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### Configuration
+
+1. Create a new Discord bot on the [Discord Developer Portal](https://discord.com/developers/applications).
+2. Copy the bot token.
+3. Create a file named `.env` in the project root and add your bot token:
+
+    ```
+    DISCORD_TOKEN=your_bot_token_here
+    ```
+
+### Usage
+
+Run the bot using:
+
+```bash
+python bot.py
