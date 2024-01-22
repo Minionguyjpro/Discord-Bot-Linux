@@ -11,7 +11,7 @@ Immerse yourself in the timeless puzzle-solving action of the Tetris-Game...
 - Python 3.x
 - curses library (usually included with Python on Linux)
 
-## Usage
+## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Momwhyareyouhere/Tetris-Game
+   git clone https://github.com/Momwhyareyouhere/Tetris-Game.git
